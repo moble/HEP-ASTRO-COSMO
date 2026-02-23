@@ -760,6 +760,11 @@ https://github.com/s-ilic/gdm_class_public
 
 Authors: Stéphane Ilic, Michael Kopp, Daniel B. Thomas, Constantinos Skordis
 
+### ABCMB
+Autodifferentiable Boltzmann solver for the CMB (ABCMB) is a Python+JAX package for differentiable computation of the Cosmic Microwave Background. ABCMB is complete to linear order in ΛCDM cosmology. It computes the matter and CMB power spectra and includes effects like lensing, massive neutrinos, and E-mode polarization.  It is the first differentiable Einstein-Boltzmann solver to include a state-of-the-art treatment of the physics of recombination through the companion code [HyRex](https://github.com/TonyZhou729/HyRex), and also includes [LINX](https://github.com/cgiovanetti/LINX) for a state-of-the-art treatment of Big Bang Nucleosynthesis.
+
+https://github.com/TonyZhou729/ABCMB
+
 ***
 
 ## Cosmological Parameter Estimation and Statistical Analysis
